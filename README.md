@@ -5,10 +5,6 @@
 
 📓 I completed my undergraduate studies at the Massachusetts Institute of Technology, where I received bachelor of science degrees in both Mathematics and Physics. I also minored in Public Policy and obtained a concentration in German.
 
-[![Octavio’s github stats](https://github-readme-stats.vercel.app/api?username=ovega14)](https://github.com/ovega14)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovega14&layout=compact)](https://github.com/ovega14)
-
 <!--
 **ovega14/ovega14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,4 +17,10 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
+
+[![Octavio’s github stats](https://github-readme-stats.vercel.app/api?username=ovega14)](https://github.com/ovega14)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovega14&layout=compact)](https://github.com/ovega14)
+
 -->
+
