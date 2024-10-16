@@ -1,10 +1,17 @@
 # Hi there! 👋 I'm Octavio
 😄 **Pronouns:** He/Him/His
 
-## **Research Interests**: Lattice Gauge Theory, Quantum Chromodynamics
-🔭 I’m currently working on applying deep generative models to accelerating the pipeline of lattice quantum field theory simulations. In particular, normalizing flows and diffusion.
+🏫 **Education:** I completed my undergraduate studies at the **Massachusetts Institute of Technology (MIT)**, where I received degrees in:
+  - Mathematics 🧮 (S.B.)
+  - Physics 🔭 (S.B.)
+    
+  I also minored in **Public Policy** and obtained a concentration in **German** 🇩🇪🇨🇭🇦🇹.
 
-📓 I completed my undergraduate studies at the Massachusetts Institute of Technology, where I received bachelor of science degrees in both Mathematics and Physics. I also minored in Public Policy and obtained a concentration in German.
+## 📓 **Research Interests**: Lattice Gauge Theory, Quantum Chromodynamics
+🖥️ I’m currently working on applying deep generative models to accelerating the pipeline of lattice quantum field theory simulations. In particular, normalizing flows and diffusion.
+
+🧪 Lately, I've been experimenting with extending score-based diffusion models to sampling gauge configurations on the lattice
+
 
 <!--
 **ovega14/ovega14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
