@@ -5,6 +5,8 @@
 
 📓 I completed my undergraduate studies at the Massachusetts Institute of Technology, where I received bachelor of science degrees in both Mathematics and Physics. I also minored in Public Policy and obtained a concentration in German.
 
+![Octavio github stats](https://github-readme-stats.vercel.app/apiusername=ovega14&show_icons=true&theme=radical) 
+
 <!--
 **ovega14/ovega14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
