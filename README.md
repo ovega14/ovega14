@@ -5,7 +5,7 @@
   - Mathematics 🧮 (S.B.)
   - Physics 🔭 (S.B.)
     
-  I also minored in **Public Policy** (Security & Defense Studies) and obtained a concentration in **German** 🇩🇪🇨🇭🇦🇹.
+  I also minored in **Public Policy** (Security & Defense Studies, specifically).
 
 ## 📓 **Research Interests**: Lattice Gauge Theory, Quantum Chromodynamics
 🖥️ I’m currently working on applying deep generative models to accelerating the pipeline of lattice quantum field theory simulations. In particular, normalizing flows and diffusion.
