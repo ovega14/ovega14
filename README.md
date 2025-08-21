@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ![ovega14's Stats](https://github-readme-stats.vercel.app/api?username=ovega14&theme=nightowl&show_icons=true&hide_border=false&count_private=false)
-![ovega14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovega14&theme=nightowl&show_icons=true&hide_border=false&layout=compact&count_private=True)
+![ovega14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovega14&theme=nightowl&show_icons=true&hide_border=false&layout=compact&count_private=False)
 
 -->
 
