@@ -12,6 +12,7 @@
 
 🧪 Lately, I've been experimenting with extending score-based diffusion models to sampling gauge configurations on the lattice
 
+![ovega14's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ovega14&theme=nightowl&hide_border=false&count_private=true)
 
 <!--
 **ovega14/ovega14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +27,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 
-[![Octavio’s github stats](https://github-readme-stats.vercel.app/api?username=ovega14)](https://github.com/ovega14)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ovega14&layout=compact)](https://github.com/ovega14)
+![ovega14's Stats](https://github-readme-stats.vercel.app/api?username=ovega14&theme=nightowl&show_icons=true&hide_border=false&count_private=false)
+![ovega14's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ovega14&theme=nightowl&show_icons=true&hide_border=false&layout=compact&count_private=True)
 
 -->
 
